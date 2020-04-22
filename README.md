@@ -1,6 +1,7 @@
 
 # Demo Aplikasi Tugas 1 - 3
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/vdHiFiFU7L0)
 
 # Tampilan Android Tugas 4
 
