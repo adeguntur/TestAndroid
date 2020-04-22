@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestKedua</string>
+    <string name="label1">I {fa-heart} to {fa-code} on {fa-android}</string>
+</resources>
