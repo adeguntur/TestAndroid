@@ -13,6 +13,7 @@ import com.ade.testkedua.R;
 import com.ade.testkedua.api.RetrofitClient;
 import com.ade.testkedua.db.SharedPrefManager;
 import com.ade.testkedua.model.LoginResponse;
+import com.eqot.fontawesome.FontAwesome;
 
 import retrofit2.Call;
 import retrofit2.Callback;
@@ -42,6 +43,9 @@ public class LoginActivity extends AppCompatActivity {
         });
 
         initDialog();
+
+        FontAwesome.applyToAllViews(this, findViewById(R.id.activity_main));
+
     }
 
     private void userLogin() {
